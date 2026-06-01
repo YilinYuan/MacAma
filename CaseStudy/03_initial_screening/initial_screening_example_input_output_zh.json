@@ -1,0 +1,29 @@
+[
+    {
+        "input": "https://pubmed.ncbi.nlm.nih.gov/39917056/",
+        "output": {
+            "PriExcluded": {
+                "abs": {
+                    "Keywords": "breast cancer, immune cells, nanoparticle.",
+                    "Document Type": "Review",
+                    "Abstract": "Breast cancer remains a significant therapeutic challenge, with the immune microenvironment playing a crucial role in its progression and treatment response. This review investigates the potential of nanoparticles to modulate the immune microenvironment in breast cancer therapy. Initially, we discuss the composition and influence of the immune microenvironment on breast cancer, followed by current strategies targeting these components. We then provide strategies of nanoparticles for targeting immune cells such as macrophages, dendritic cells, and T-cells. The role of nanoparticles in enhancing immune checkpoint blockade (ICB) and their application in cancer vaccines is also examined. Additionally, we explore the synergistic effects of combining nanoparticles with conventional therapies. The review addresses the challenges in clinical translation, focusing on safety, biocompatibility, and toxicity. Finally, we outline future research directions and the potential advancements in nanoparticle-based immunotherapy, emphasizing their transformative impact on breast cancer treatment.",
+                    "Authors": "Guo LJ;Wu J;Lu W;Li J;Wang Y;Yang H;Wang TZ;",
+                    "ISSN": "1178-2013",
+                    "Journal Title": "International journal of nanomedicine",
+                    "Title": "Nanoparticles Modulating the Immune Microenvironment in Breast Cancer Treatment",
+                    "PMCID": "PMC11799854",
+                    "Publisher": "Int J Nanomedicine",
+                    "Date": "02/01/2025",
+                    "PMCID URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11799854/",
+                    "Volume": "20",
+                    "PMID": "39917056",
+                    "Abstract URL": "https://pubmed.ncbi.nlm.nih.gov/39917056/",
+                    "status": "success",
+                    "DOI": "10.2147/IJN.S492713"
+                },
+                "analysis": "### 1. 文献基本信息\n\n- **标题**：Nanoparticles Modulating the Immune Microenvironment in Breast Cancer Treatment\n- **摘要**：Breast cancer remains a significant therapeutic challenge, with the immune microenvironment playing a crucial role in its progression and treatment response. This review investigates the potential of nanoparticles to modulate the immune microenvironment in breast cancer therapy. Initially, we discuss the composition and influence of the immune microenvironment on breast cancer, followed by current strategies targeting these components. We then provide strategies of nanoparticles for targeting immune cells such as macrophages, dendritic cells, and T-cells. The role of nanoparticles in enhancing immune checkpoint blockade (ICB) and their application in cancer vaccines is also examined. Additionally, we explore the synergistic effects of combining nanoparticles with conventional therapies. The review addresses the challenges in clinical translation, focusing on safety, biocompatibility, and toxicity. Finally, we outline future research directions and the potential advancements in nanoparticle-based immunotherapy, emphasizing their transformative impact on breast cancer treatment.\n\n### 2. 初步筛选结果\n\n- **文献类型**：综述文章（Review）\n- **是否排除**：是\n\n### 3. 详细评估结果\n\n#### 分析过程\n\n1. **文献类型检查**：\n   - 标题和摘要中明确指出这是一篇综述文章（\"This review investigates the potential of nanoparticles to modulate the immune microenvironment in breast cancer therapy.\"）。\n   - 综述文章不符合我们的研究主题要求，因此应该被排除。\n\n2. **关键词匹配**：\n   - 尽管文献标题和摘要中包含了以下高频词汇：\n     - **肿瘤**：Cancer, breast cancer\n     - **免疫**：immune microenvironment, immune cells, macrophages, dendritic cells, T-cells, immune checkpoint blockade (ICB), cancer vaccines\n   - 但是，由于文献类型为综述文章，即使包含所有四类高频词汇，也应被排除。\n\n### 4. 最终结论\n\n- **是否纳入**：排除\n- **原因**：1. 错误的出版物类型\n\n综上所述，这篇文献是一篇综述文章，不符合我们的研究主题要求，因此应被排除。"
+            }
+        },
+        "id": 1
+    }
+]

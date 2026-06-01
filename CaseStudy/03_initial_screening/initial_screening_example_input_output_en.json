@@ -1,0 +1,29 @@
+[
+    {
+        "input": "https://pubmed.ncbi.nlm.nih.gov/39917056/",
+        "output": {
+            "PriExcluded": {
+                "abs": {
+                    "Keywords": "breast cancer, immune cells, nanoparticle.",
+                    "Document Type": "Review",
+                    "Abstract": "Breast cancer remains a significant therapeutic challenge, with the immune microenvironment playing a crucial role in its progression and treatment response. This review investigates the potential of nanoparticles to modulate the immune microenvironment in breast cancer therapy. Initially, we discuss the composition and influence of the immune microenvironment on breast cancer, followed by current strategies targeting these components. We then provide strategies of nanoparticles for targeting immune cells such as macrophages, dendritic cells, and T-cells. The role of nanoparticles in enhancing immune checkpoint blockade (ICB) and their application in cancer vaccines is also examined. Additionally, we explore the synergistic effects of combining nanoparticles with conventional therapies. The review addresses the challenges in clinical translation, focusing on safety, biocompatibility, and toxicity. Finally, we outline future research directions and the potential advancements in nanoparticle-based immunotherapy, emphasizing their transformative impact on breast cancer treatment.",
+                    "Authors": "Guo LJ;Wu J;Lu W;Li J;Wang Y;Yang H;Wang TZ;",
+                    "ISSN": "1178-2013",
+                    "Journal Title": "International journal of nanomedicine",
+                    "Title": "Nanoparticles Modulating the Immune Microenvironment in Breast Cancer Treatment",
+                    "PMCID": "PMC11799854",
+                    "Publisher": "Int J Nanomedicine",
+                    "Date": "02/01/2025",
+                    "PMCID URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11799854/",
+                    "Volume": "20",
+                    "PMID": "39917056",
+                    "Abstract URL": "https://pubmed.ncbi.nlm.nih.gov/39917056/",
+                    "status": "success",
+                    "DOI": "10.2147/IJN.S492713"
+                },
+                "analysis": "### 1. Basic Article Information\n\n- **Title**: Nanoparticles Modulating the Immune Microenvironment in Breast Cancer Treatment\n- **Abstract**: Breast cancer remains a significant therapeutic challenge, with the immune microenvironment playing a crucial role in its progression and treatment response. This review investigates the potential of nanoparticles to modulate the immune microenvironment in breast cancer therapy. Initially, we discuss the composition and influence of the immune microenvironment on breast cancer, followed by current strategies targeting these components. We then provide strategies of nanoparticles for targeting immune cells such as macrophages, dendritic cells, and T-cells. The role of nanoparticles in enhancing immune checkpoint blockade (ICB) and their application in cancer vaccines is also examined. Additionally, we explore the synergistic effects of combining nanoparticles with conventional therapies. The review addresses the challenges in clinical translation, focusing on safety, biocompatibility, and toxicity. Finally, we outline future research directions and the potential advancements in nanoparticle-based immunotherapy, emphasizing their transformative impact on breast cancer treatment.\n\n### 2. Initial Screening Result\n\n- **Document Type**: Review article\n- **Excluded**: Yes\n\n### 3. Detailed Assessment\n\n#### Reasoning Process\n\n1. **Document type check**:\n   - The title and abstract clearly indicate that this is a review article (“This review investigates the potential of nanoparticles to modulate the immune microenvironment in breast cancer therapy.”).\n   - Review articles do not meet the eligibility requirements of this study and should therefore be excluded.\n\n2. **Keyword matching**:\n   - Although the title and abstract contain several high-frequency terms relevant to the topic, including:\n     - **Tumor-related terms**: Cancer, breast cancer\n     - **Immune-related terms**: immune microenvironment, immune cells, macrophages, dendritic cells, T-cells, immune checkpoint blockade (ICB), cancer vaccines\n   - the article should still be excluded because its publication type is a review article, even if it contains topic-relevant keywords.\n\n### 4. Final Conclusion\n\n- **Inclusion decision**: Excluded\n- **Reason**: 1. Incorrect publication type\n\nIn summary, this article is a review article and does not meet the eligibility requirements of the study. Therefore, it should be excluded."
+            }
+        },
+        "id": 1
+    }
+]

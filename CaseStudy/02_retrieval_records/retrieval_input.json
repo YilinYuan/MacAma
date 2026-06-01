@@ -1,0 +1,7 @@
+{
+  "database": "PubMed",
+  "search_query": "((((Tumor)OR(Neoplasia)OR(Neoplasm)OR(Cancer)OR(Malignant Neoplasm)OR(Malignancy)OR(Malignant)OR(Benign Neoplasms)OR(carcinoma)) AND ((X ray)OR(Roentgenotherapy)OR(X Ray Therapy))) AND ((Animal))) AND ((immunity)OR(immune)OR(Immune Response)OR(Immune Systems)OR(Immunogenic Cell Death))",
+  "start_date": "2010-01-01",
+  "end_date": "2025-02-08",
+  "retrieval_tool": "NCBI E-utilities API"
+}
